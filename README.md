@@ -9,7 +9,7 @@ Under the hood, this project uses [Chroma](https://www.trychroma.com/) and its [
 Since this project is a command-line application, it's recommended that you use [`pipx`](https://github.com/pypa/pipx) to install it in an isolated environment:
 
 ```bash
-pipx install git+https://github.com/connorbrinton/image-search.git
+pipx install git+https://github.com/johnadams97/image-search.git
 ```
 
 After installation, you can run the application with the following command:
